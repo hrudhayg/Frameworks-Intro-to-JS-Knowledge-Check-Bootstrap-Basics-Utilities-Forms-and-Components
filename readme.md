@@ -1,10 +1,14 @@
 project-folder/
+
 ├── assets/
 │   └── banner.jpg
+
 ├── html/
 │   └── index.html
+
 ├── styles/
 │   └── styles.css
+
 ├── README.md
 
 
